@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-18T12:25:06 IST" name="MyDropDown" finished-at="2024-02-18T12:25:13 IST" duration-ms="6571">
+    <groups>
+    </groups>
+    <test started-at="2024-02-18T12:25:06 IST" name="Test" finished-at="2024-02-18T12:25:13 IST" duration-ms="6571">
+      <class name="com.test.TestDropDown">
+        <test-method signature="testDropDOwn()[pri:0, instance:com.test.TestDropDown@71809907]" started-at="2024-02-18T12:25:06 IST" name="testDropDOwn" finished-at="2024-02-18T12:25:13 IST" duration-ms="6529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropDOwn -->
+      </class> <!-- com.test.TestDropDown -->
+      <class name="com.main.BaseClass">
+        <test-method is-config="true" signature="initSutite()[pri:0, instance:com.main.BaseClass@123ef382]" started-at="2024-02-18T12:25:01 IST" name="initSutite" finished-at="2024-02-18T12:25:06 IST" duration-ms="5013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSutite -->
+        <test-method is-config="true" signature="killBrowser()[pri:0, instance:com.main.BaseClass@123ef382]" started-at="2024-02-18T12:25:13 IST" name="killBrowser" finished-at="2024-02-18T12:25:13 IST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killBrowser -->
+      </class> <!-- com.main.BaseClass -->
+    </test> <!-- Test -->
+  </suite> <!-- MyDropDown -->
+</testng-results>
